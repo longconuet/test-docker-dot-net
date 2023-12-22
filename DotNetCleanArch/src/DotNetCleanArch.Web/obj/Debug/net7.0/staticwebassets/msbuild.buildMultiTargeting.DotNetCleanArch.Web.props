@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DotNetCleanArch.Web.props" />
+</Project>

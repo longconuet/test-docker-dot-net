@@ -1,0 +1,12 @@
+E:\csharp\TestArray\TestArray\bin\Debug\net6.0\TestArray.deps.json
+E:\csharp\TestArray\TestArray\bin\Debug\net6.0\TestArray.dll
+E:\csharp\TestArray\TestArray\bin\Debug\net6.0\TestArray.pdb
+E:\csharp\TestArray\TestArray\obj\Debug\net6.0\TestArray.csproj.AssemblyReference.cache
+E:\csharp\TestArray\TestArray\obj\Debug\net6.0\TestArray.GeneratedMSBuildEditorConfig.editorconfig
+E:\csharp\TestArray\TestArray\obj\Debug\net6.0\TestArray.AssemblyInfoInputs.cache
+E:\csharp\TestArray\TestArray\obj\Debug\net6.0\TestArray.AssemblyInfo.cs
+E:\csharp\TestArray\TestArray\obj\Debug\net6.0\TestArray.csproj.CoreCompileInputs.cache
+E:\csharp\TestArray\TestArray\obj\Debug\net6.0\TestArray.dll
+E:\csharp\TestArray\TestArray\obj\Debug\net6.0\refint\TestArray.dll
+E:\csharp\TestArray\TestArray\obj\Debug\net6.0\TestArray.pdb
+E:\csharp\TestArray\TestArray\obj\Debug\net6.0\ref\TestArray.dll

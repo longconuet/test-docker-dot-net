@@ -1,0 +1,15 @@
+E:\csharp\DotNetCleanArch\src\DotNetCleanArch.Core\bin\Debug\net7.0\DotNetCleanArch.Core.deps.json
+E:\csharp\DotNetCleanArch\src\DotNetCleanArch.Core\bin\Debug\net7.0\DotNetCleanArch.Core.dll
+E:\csharp\DotNetCleanArch\src\DotNetCleanArch.Core\bin\Debug\net7.0\DotNetCleanArch.Core.pdb
+E:\csharp\DotNetCleanArch\src\DotNetCleanArch.Core\bin\Debug\net7.0\DotNetCleanArch.SharedKernel.dll
+E:\csharp\DotNetCleanArch\src\DotNetCleanArch.Core\bin\Debug\net7.0\DotNetCleanArch.SharedKernel.pdb
+E:\csharp\DotNetCleanArch\src\DotNetCleanArch.Core\obj\Debug\net7.0\DotNetCleanArch.Core.csproj.AssemblyReference.cache
+E:\csharp\DotNetCleanArch\src\DotNetCleanArch.Core\obj\Debug\net7.0\DotNetCleanArch.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\csharp\DotNetCleanArch\src\DotNetCleanArch.Core\obj\Debug\net7.0\DotNetCleanArch.Core.AssemblyInfoInputs.cache
+E:\csharp\DotNetCleanArch\src\DotNetCleanArch.Core\obj\Debug\net7.0\DotNetCleanArch.Core.AssemblyInfo.cs
+E:\csharp\DotNetCleanArch\src\DotNetCleanArch.Core\obj\Debug\net7.0\DotNetCleanArch.Core.csproj.CoreCompileInputs.cache
+E:\csharp\DotNetCleanArch\src\DotNetCleanArch.Core\obj\Debug\net7.0\DotNetCleanArch.Core.csproj.CopyComplete
+E:\csharp\DotNetCleanArch\src\DotNetCleanArch.Core\obj\Debug\net7.0\DotNetCleanArch.Core.dll
+E:\csharp\DotNetCleanArch\src\DotNetCleanArch.Core\obj\Debug\net7.0\refint\DotNetCleanArch.Core.dll
+E:\csharp\DotNetCleanArch\src\DotNetCleanArch.Core\obj\Debug\net7.0\DotNetCleanArch.Core.pdb
+E:\csharp\DotNetCleanArch\src\DotNetCleanArch.Core\obj\Debug\net7.0\ref\DotNetCleanArch.Core.dll

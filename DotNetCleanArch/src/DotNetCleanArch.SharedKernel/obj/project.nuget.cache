@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "7YbmjXEcTRw7s4etiuK0IT4pRg0SaVH4vuZY3k4GxLXuuM0k839WMxo9E9JALNp2T2WxG3UhRezrfUG/y0xc0A==",
+  "success": true,
+  "projectFilePath": "E:\\csharp\\DotNetCleanArch\\src\\DotNetCleanArch.SharedKernel\\DotNetCleanArch.SharedKernel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADMIN\\.nuget\\packages\\ardalis.specification\\6.1.0\\ardalis.specification.6.1.0.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

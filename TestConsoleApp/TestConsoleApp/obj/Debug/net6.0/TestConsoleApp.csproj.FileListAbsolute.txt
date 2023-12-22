@@ -1,0 +1,14 @@
+E:\csharp\TestConsoleApp\TestConsoleApp\bin\Debug\net6.0\TestConsoleApp.exe
+E:\csharp\TestConsoleApp\TestConsoleApp\bin\Debug\net6.0\TestConsoleApp.deps.json
+E:\csharp\TestConsoleApp\TestConsoleApp\bin\Debug\net6.0\TestConsoleApp.runtimeconfig.json
+E:\csharp\TestConsoleApp\TestConsoleApp\bin\Debug\net6.0\TestConsoleApp.dll
+E:\csharp\TestConsoleApp\TestConsoleApp\bin\Debug\net6.0\TestConsoleApp.pdb
+E:\csharp\TestConsoleApp\TestConsoleApp\obj\Debug\net6.0\TestConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\csharp\TestConsoleApp\TestConsoleApp\obj\Debug\net6.0\TestConsoleApp.AssemblyInfoInputs.cache
+E:\csharp\TestConsoleApp\TestConsoleApp\obj\Debug\net6.0\TestConsoleApp.AssemblyInfo.cs
+E:\csharp\TestConsoleApp\TestConsoleApp\obj\Debug\net6.0\TestConsoleApp.csproj.CoreCompileInputs.cache
+E:\csharp\TestConsoleApp\TestConsoleApp\obj\Debug\net6.0\TestConsoleApp.dll
+E:\csharp\TestConsoleApp\TestConsoleApp\obj\Debug\net6.0\refint\TestConsoleApp.dll
+E:\csharp\TestConsoleApp\TestConsoleApp\obj\Debug\net6.0\TestConsoleApp.pdb
+E:\csharp\TestConsoleApp\TestConsoleApp\obj\Debug\net6.0\TestConsoleApp.genruntimeconfig.cache
+E:\csharp\TestConsoleApp\TestConsoleApp\obj\Debug\net6.0\ref\TestConsoleApp.dll

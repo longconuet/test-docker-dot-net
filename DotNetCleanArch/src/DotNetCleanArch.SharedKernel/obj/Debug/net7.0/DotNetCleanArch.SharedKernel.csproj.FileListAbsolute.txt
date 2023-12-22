@@ -1,0 +1,12 @@
+E:\csharp\DotNetCleanArch\src\DotNetCleanArch.SharedKernel\bin\Debug\net7.0\DotNetCleanArch.SharedKernel.deps.json
+E:\csharp\DotNetCleanArch\src\DotNetCleanArch.SharedKernel\bin\Debug\net7.0\DotNetCleanArch.SharedKernel.dll
+E:\csharp\DotNetCleanArch\src\DotNetCleanArch.SharedKernel\bin\Debug\net7.0\DotNetCleanArch.SharedKernel.pdb
+E:\csharp\DotNetCleanArch\src\DotNetCleanArch.SharedKernel\obj\Debug\net7.0\DotNetCleanArch.SharedKernel.csproj.AssemblyReference.cache
+E:\csharp\DotNetCleanArch\src\DotNetCleanArch.SharedKernel\obj\Debug\net7.0\DotNetCleanArch.SharedKernel.GeneratedMSBuildEditorConfig.editorconfig
+E:\csharp\DotNetCleanArch\src\DotNetCleanArch.SharedKernel\obj\Debug\net7.0\DotNetCleanArch.SharedKernel.AssemblyInfoInputs.cache
+E:\csharp\DotNetCleanArch\src\DotNetCleanArch.SharedKernel\obj\Debug\net7.0\DotNetCleanArch.SharedKernel.AssemblyInfo.cs
+E:\csharp\DotNetCleanArch\src\DotNetCleanArch.SharedKernel\obj\Debug\net7.0\DotNetCleanArch.SharedKernel.csproj.CoreCompileInputs.cache
+E:\csharp\DotNetCleanArch\src\DotNetCleanArch.SharedKernel\obj\Debug\net7.0\DotNetCleanArch.SharedKernel.dll
+E:\csharp\DotNetCleanArch\src\DotNetCleanArch.SharedKernel\obj\Debug\net7.0\refint\DotNetCleanArch.SharedKernel.dll
+E:\csharp\DotNetCleanArch\src\DotNetCleanArch.SharedKernel\obj\Debug\net7.0\DotNetCleanArch.SharedKernel.pdb
+E:\csharp\DotNetCleanArch\src\DotNetCleanArch.SharedKernel\obj\Debug\net7.0\ref\DotNetCleanArch.SharedKernel.dll
